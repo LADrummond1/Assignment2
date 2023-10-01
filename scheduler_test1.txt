@@ -1,0 +1,11 @@
+9
+0001 generate_keys 1000 0
+0011 test_mergesort_keys 3500 1 0001
+0111 analyze_mergesort 2500 1 0011
+0012 test_3wmergesort_keys 3200 1 0001
+0212 analyze_3wmergesort 2500 1 0012
+0013 test_quicksort_keys 3000 1 0001 
+0313 analyze_quicksort 2550 1 0011
+0010 test_genstrings 2555 0
+0015 plot_everything 500 3 0111 0212 0313
+0 100

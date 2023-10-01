@@ -1,0 +1,14 @@
+12
+0100 parallel_main_start 200 1 0010
+0110 parallel_proc1 1260 3 0100 0010 0015
+0120 parallel_proc2 1260 3 0100 0010 0015
+0130 parallel_proc3 1220 3 0100 0010 0015
+0140 parallel_proc4 1220 3 0100 0010 0015
+0010 generate_data 300 0
+0015 distribute_data 200 0
+0510 gather_datans 250 1 0110
+0511 gather_dataew 250 1 0120
+0200 parallel_main_end 250 4 0110 0120 0130 0140
+0615 plot_everything 400 2 0100 0200
+0070 clean_everything_temp 350 1 0200
+0 100

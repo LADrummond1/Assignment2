@@ -1,0 +1,58 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for
+#            Molecular Sciences 
+# October 2023
+
+# 
+# Creator:  <"student's name goes here">
+# Date Created: October 10, 2022
+# Directory Path: Assignment2/
+
+This is the main directory which contains a series of utilities, 
+data structures functions, a scheduler application and functionality
+tests for Assignment #2
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+- Bin/ : This subdirectory contains all the executable program
+	
+- Lib/ : This subdirectory contains all data structure libraries (.a)
+		
+- Include/: This subdirectory contains all the function prototypes 
+		and global symbold definitions (.h include files)
+		
+- Source/ : This directory contains all the source code with the
+		core data structures functionality implemented in C++ for 
+		Assignment #2.  
+		
+- Tests: Test programs used to verify and validate the functionality 
+		of the software developed for Assignment 2. Some of these 
+		tests are performance verification tests for performance 
+		analysis
+
+- Utils: Contains all the source files that implement utilities
+		like timing, plotting, and random number generation functions, 
+        hash functions. For Assignment #2.
+
+- Applications:  For assignment #2, we are building a single processor
+		scheduler for processes. The scheduler is built inside 
+		Applications/Scheduler
+
+LIST OF FILES IN THIS DIRECTORY:
+- README (this file - make sure you add your own comments here)
+
+- Makefile: Global automation commands. 
+ 
+- scheduler_test1.txt: 	Test data for the runtime scheduler 
+		(experiment #1)
+
+- scheduler_test2.txt:	Additional test data for the runtime 
+		scheduler (experiment 2)
+
+- appendixA.cpp: code snippets included in the Appendix A from 
+		Assignment 2's instructions
+
+#	- Students need to also place their Answers-Assignment2.pdf 
+#	  file in this directory
+
+# Updates:
+	
