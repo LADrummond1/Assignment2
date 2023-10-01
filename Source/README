@@ -1,1 +1,25 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for
+#            Molecular Sciences 
+# October 2023
+
+# 
+# Creator:  <"student's name goes here">
+# Date Created: October, 2022
+# Directory Path: Assignment2/Source/
+
+This subdirectory contain C++ implementations of the functionality.
+For Assignment 2, the functionality is concentrated around data structures 
+to support hash tables and priority queues.
+
+Files:
+- README: (is this file) 
+
+- Datatypes: Is a subdirectory where the data types and data 
+             structures' functionalities (methods) are implemented.
+
+
+
+
+
 
