@@ -1,1 +1,33 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2023
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 14, 2022
+# Last Updated: September 20, 2023
+# Directory Path: Assignment2/Source/Datatypes/
+
+This subdirectory contain C++ implementation of Data Structures
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(no subdirectories)
+
+LIST OF FILES IN THIS DIRECTORY:
+- README (this file)
+
+- hashtables.cpp: C++ class implementation of some hash table 
+        operations.
+
+- seq_array.cpp: C++ class implementation of some operations on
+        seq_array data structure.
+
+- stack.cpp: C++ class implementation of the basic operations the
+        stack data struture.
+        
+-  Makefile: Creates object files from the source C++ files  and then 
+        creates a library object file to archive all the object files.
+
+
+
+
 
