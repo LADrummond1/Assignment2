@@ -1,1 +1,18 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2023
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 14, 2022
+# Last Updated: September 20, 2023
+# Directory Path: Week7/Include
 
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(no subdirectories)
+
+LIST OF FILES IN THIS DIRECTORY:
+- README: (this file) contains general information of this directory
+
+- mydatatypes.h : API to data structures and C++ class
+		declarations. 
