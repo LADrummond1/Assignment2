@@ -16,4 +16,7 @@ LIST OF FILES IN THIS DIRECTORY:
 - mytimings.h: API to the timing utility
 - myrandom.h API to random array and key generation functions.  This 
 		file contains more functions than when first defined in 
-		Module 2. We use some of these functions for Hashing in Week 7.
+		Module 2. We used some of these functions for Hashing in Week 7.
+
+# Updates:
+- <student's name> report any updates to this directory 
