@@ -8,6 +8,7 @@
 # Directory Path: Week7/Include
 
 
+
 LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
 (no subdirectories)
 
@@ -16,3 +17,6 @@ LIST OF FILES IN THIS DIRECTORY:
 
 - mydatatypes.h : API to data structures and C++ class
 		declarations. 
+
+# Updates:
+- <student's name> report updates
