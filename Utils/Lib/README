@@ -12,6 +12,8 @@ LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
 
 LIST OF FILES IN THIS DIRECTORY:
 - README: (this file) contains general information of this directory
+- libmyhashfs.a: Library object file that contains hash functions.  
+        This library object file is built in Utils/Hashing/
 - libmymetrics.a: Library object file that contains timers and future  
         performance metrics (e.g., mychrontimes.o). This library 
         object file is built in Utils/Metrics/
@@ -19,3 +21,5 @@ LIST OF FILES IN THIS DIRECTORY:
         functions for integers and strings (from myrandomfs.o and 
         myrandstrings.o) This library object file is built in
         Utils/Rangen/
+# Updates:
+- <student's name> report any updates to this directory 
