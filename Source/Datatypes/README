@@ -27,7 +27,8 @@ LIST OF FILES IN THIS DIRECTORY:
 -  Makefile: Creates object files from the source C++ files  and then 
         creates a library object file to archive all the object files.
 
-
+# Updates:
+- <student's name> report any updates to this directory 
 
 
 
