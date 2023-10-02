@@ -5,21 +5,19 @@
 # Creator:  Tony Drummond, PhD.  Faculty
 # Date Created: September 14, 2022
 # Last Updated: September 20, 2023
-# Directory Path: Assignment2/Utils/Lib
+# Directory Path: Assignment2/Lib/
 
+C++ Programs under the ../Source subdirectories 
+create object files and then library object files. The library 
+object files are stored in this subdirectory.  
 LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
 (no subdirectories)
 
 LIST OF FILES IN THIS DIRECTORY:
-- README: (this file) contains general information of this directory
-- libmyhashfs.a: Library object file that contains hash functions.  
-        This library object file is built in Utils/Hashing/
-- libmymetrics.a: Library object file that contains timers and future  
-        performance metrics (e.g., mychrontimes.o). This library 
-        object file is built in Utils/Metrics/
-- libmyrandom.a Library object file that contains random generator 
-        functions for integers and strings (from myrandomfs.o and 
-        myrandstrings.o) This library object file is built in
-        Utils/Rangen/
+- README: (this file) 
+- libmydatatypes.a: Library object file that contains C++ Class 
+        implementations of stack, seq_array and hash_tables. This 
+        object libray file is created in Week7/Source/Datatypes
+
 # Updates:
 - <student's name> report any updates to this directory 
