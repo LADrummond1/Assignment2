@@ -1,1 +1,21 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2023
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 14, 2022
+# Last Updated: September 20, 2023
+# Directory Path: Assignment2/Utils/Lib
 
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(no subdirectories)
+
+LIST OF FILES IN THIS DIRECTORY:
+- README: (this file) contains general information of this directory
+- libmymetrics.a: Library object file that contains timers and future  
+        performance metrics (e.g., mychrontimes.o). This library 
+        object file is built in Utils/Metrics/
+- libmyrandom.a Library object file that contains random generator 
+        functions for integers and strings (from myrandomfs.o and 
+        myrandstrings.o) This library object file is built in
+        Utils/Rangen/
