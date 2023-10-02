@@ -1,1 +1,20 @@
+#
+# for MSSE Chem 274B - Fall Semester
+# University of California, Berkeley
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 2022
+#
+# Directory Path: Assignment/Tests/Datatypes
+This is the directory where all tests for the different C++ 
+student implementations for assignment #2 will be stored,
+including tests of the students Application (scheduler)
 
+  Files:
+- README: 
+
+- Makefile: 
+
+
+# Updates:
+- <student's name> report any updates to this directory 
