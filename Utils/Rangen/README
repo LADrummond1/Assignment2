@@ -1,1 +1,21 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2023
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 24, 2022
+# Date Updated: September 22, 2023
+#
+# Directory Path: Assignment2/Tests/Rangen/
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(no subdirectories)
+
+LIST OF FILES IN THIS DIRECTORY:
+- README (this file)
+- myrandomfs.cpp    Implements random number generator functions to 
+        fill 1D arrays with integer keys
+- myrandstrings.cpp Implements random number generator functions to 
+        create arrays with random string keys
+
 
