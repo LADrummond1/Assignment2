@@ -1,1 +1,27 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2023
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 24, 2022
+# Date Updated: September 22, 2023
+#
+# Directory Path: Assignment2/Tests/Metrics/
+
+This directory contains source codes for utilities relating to timing
+functions and other performance analysis metrics.
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(no subdirectories)
+
+LIST OF FILES IN THIS DIRECTORY:
+- README (this file)
+- Makefile: generates object files from source C++ program files in this
+         subdirectory and then it archives them in a library 
+         (mymetrics.a)
+- mychrontimes.cpp  Implements three functions that help us time
+                    executing programs using the C system 
+                    chrono library. 
+# Updates:
+- <student's name> report any updates to this directory 
 
