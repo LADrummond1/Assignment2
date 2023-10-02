@@ -1,1 +1,38 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2023
+# 
+# Creator:  Tony Drummond, PhD.  Faculty
+# Date Created: September 14, 2022
+# Last Updated: September 20, 2023
+# Directory Path: Assignment2/Utils/
 
+# Utils: This subdirectory contains source C++, library object files, 
+# and include (API) files for utilities. 
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+- Hashing: this subdirectory has C++ program implementations of 3 hash
+        functions
+
+- Include/: this directory contains all the APIs for Assignment2 utilities, 
+        which include random generator functions, hash functions and 
+        timings.
+
+- Lib/ : this directory contains all the library object files 
+	(.a) for Assignment2
+
+- Metrics/ : Contain C++ program implementations of the
+	metrics (like timing functions) This directory should have only
+        source C++ files.
+        
+- Rangen: this subdirectory has C++ program implementations of random 
+        generator functions for integer and strings
+
+LIST OF FILES IN THIS DIRECTORY:
+- README: this file
+- Makefile: Global Util automation commands. This makefile creates
+    Util library objects it can also initialize all subdirectories 
+    in this path.
+
+# Updates:
+- <student's name> report any updates to this directory 
